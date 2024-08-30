@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "HospitalManagementSystem"
+  "defaultProject": "HospitalManagementSystem",
+  "cli": {
+    "analytics": false
+  }
 }
